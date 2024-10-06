@@ -2,6 +2,8 @@
 
 ![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoSantoS2&show_icons=true&theme=tokyonight)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoSantoS2&theme=blue-green)
+
 ### Ferramentas que utilizo:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
