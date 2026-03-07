@@ -43,6 +43,6 @@ Whether you want to discuss financial market indicators or the "Game Loop" in Un
 
 * 📧 **Email:** [breno.santos.ismart@gmail.com](mailto:breno.santos.ismart@gmail.com)
 * 👾 **Discord:** `calcifer_s`
-* 💼 **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/breno-santos-0843131b8/)) 
+* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/breno-santos-0843131b8/) 
 
 <p align="right"><i>Last updated: March 2026</i></p>
