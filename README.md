@@ -38,14 +38,6 @@ I believe the logic of data and the art of game development are two sides of the
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoSantoS2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoSantoS2&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ### 📫 Let's Connect!
 Whether you want to discuss financial market indicators or the "Game Loop" in Unity, feel free to reach out!
 
